@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Scienece
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about React.js , Node.js and Java
-- 📫 How to reach me rizwan.janjua@outlook.com/
+- 📫 How to reach me rizwan.janjua@outlook.com
 - 📄 Know about my experiences https://www.linkedin.com/in/rizwan-habib/
 - ⚡ Fun fact Trying to Focus
 <!---
